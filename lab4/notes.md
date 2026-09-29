@@ -16,3 +16,18 @@ yes, .gitignore should be comitted so that all collaborators share same rules fo
 
 Ques-6
 README.md moved from untracked files to changes to be commited. In a three places model running git add moved the file from the Working Directory into the Staging Area
+
+Ques-7
+Git printed the[master (root-commit) 7a93cf3] Lab work so far
+ 6 files changed, 174 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 lab4/notes.md
+ create mode 100644 notes,md
+ create mode 100644 week02/lab01-log.txt
+ create mode 100644 week02/notes.md
+and it says i changed file 6 times.
+
+Ques-8
+The first seven characters are called the short commit hash(7a93cf3). They are as unique id to identify specific commit in git history.
+
