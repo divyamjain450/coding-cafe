@@ -1,4 +1,4 @@
-yQues-1:
+Ques-1:
 --global tells git to aplly this name and email setting across user account on this computer so can be used for all git repositories.
 If I leave it out, Git saves the settings locally only for the current repository inside .git/config. You also can't skip it unless you are already inside an initialized Git folder. 
 
@@ -36,10 +36,13 @@ The four steps of the Git loop are:
 2. Check status 
 3. Stage (to add file)
 4. Commit
-ques-10
+   
+Ques-10
 READMEmd is special because GitHub automatically renders it as the front page of your repository. Leaving it in the main folder means that anyone who opens your project can immediately see what the project is about and how it works.
+
 Ques-11
 gh auth login authenticates your machine using an OAuth security token stored locally by the GitHub. This token acts as a persistent credential, allowing Git to verify your identity on future pushes without prompting for your password.
+
 Ques-12
 README is shown automatically on the repository front page.md right below the file list. GitHub is meant to specifically look for a root README.md file and show that as the main landing page for anyone coming to the project.
 
